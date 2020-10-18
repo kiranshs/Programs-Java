@@ -4,5 +4,9 @@ public class TestWorld {
 	System.out.println("This is a change made in feature test branch that we created");
         System.out.println("Change to the master");
     }
+
+    public static void main2()
+    {
+    }
 }
 
