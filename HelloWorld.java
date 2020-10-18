@@ -10,5 +10,17 @@ public class TestWorld {
     public static mainblah()
     {
     }
+
+    public static void main2()
+    {
+    }
+
+    public static void main3()
+    {
+    }
+
+    public static void main4()
+    {
+    }
 }
 
